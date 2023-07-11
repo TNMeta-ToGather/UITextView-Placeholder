@@ -9,3 +9,6 @@ build
 
 Podfile.lock
 Pods
+**.xcworkspace
+**/xcshareddata
+**/xcuserdata
